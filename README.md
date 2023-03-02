@@ -21,12 +21,12 @@
 7. 만약, 시간 초과 되거나 정답을 맞추지 못하면 게임이 종료된다.
 
 #참고자료 (Thanks to)
-https://minesweeper.online/ko/
-https://play.google.com/store/apps/details?id=com.panu&hl=ko&gl=US
-https://www.flaticon.com/
-https://www.thepythoncode.com/article/make-a-button-using-pygame-in-python?ref=morioh.com&utm_source=morioh.com
-개인 프로젝트 01 : pygame으로 간단한 게임 만들기 (tistory.com)
-Pygame_project : 6. 조건 설정 : 네이버 블로그 (naver.com)
-[알고리즘/자바스크립트] 지뢰찾기 알고리즘 (Minesweeper Algorithm) :: Code Playground (tistory.com)
-Python으로 지뢰찾기 만들기 (tistory.com)
-[python] 지뢰찾기 만들기 (velog.io)
+- https://minesweeper.online/ko/
+- https://play.google.com/store/apps/details?id=com.panu&hl=ko&gl=US
+- https://www.flaticon.com/
+- https://www.thepythoncode.com/article/make-a-button-using-pygame-in-python?ref=morioh.com&utm_source=morioh.com
+- 개인 프로젝트 01 : pygame으로 간단한 게임 만들기 (tistory.com)
+- Pygame_project : 6. 조건 설정 : 네이버 블로그 (naver.com)
+- [알고리즘/자바스크립트] 지뢰찾기 알고리즘 (Minesweeper Algorithm) :: Code Playground (tistory.com)
+- Python으로 지뢰찾기 만들기 (tistory.com)
+- [python] 지뢰찾기 만들기 (velog.io)
